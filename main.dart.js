@@ -69166,7 +69166,7 @@ A.Wa.prototype={
 $0(){this.a.a5e(this.b,this.c)},
 $S:0}
 A.Wb.prototype={
-$0(){B.aR.O_(window,"https://github.com/harayama-dev68/y2_mahjong_help","")},
+$0(){B.aR.O_(window,"https://github.com/yomoyama-dev68/y2-mahjong/tree/master/help","")},
 $S:0}
 A.We.prototype={
 $1(a){var s=null,r=this.b,q=t.p,p=A.axq(A.dA(A.b([new A.lm(r,s,B.MM,s,s,B.Os,s,s),A.amm(!0,B.DN,24,new A.Wc(r),B.c1,"copy")],q),B.R,s,B.K,B.ae,s))
